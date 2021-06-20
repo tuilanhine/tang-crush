@@ -1,9 +1,7 @@
 const CONFIG = {
     introTitle: 'hí em, lần đầu gặp em a đã muốn !',
-    introDesc: `Cất em vào trong bọc 
-   Không để ai nhòm ngó
-    Vì em là bảo ngọc 
-    Nên ai cũng muốn có  <3`,
+    introDesc: `Cất em vào trong bọc không để ai nhòm ngó       .
+    Vì em là bảo ngọc nên ai cũng muốn có  <3`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Anh thực sự thích em ý, làm người yêu anh nhá',
